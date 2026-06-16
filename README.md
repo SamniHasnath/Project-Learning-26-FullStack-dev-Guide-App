@@ -25,6 +25,7 @@ Perfect for:
 * ⚡ Zero dependencies
 
 ---
+<img width="1800" height="600" alt="image" src="https://github.com/user-attachments/assets/cbc445ce-9da0-419f-bf93-9d3be97ece5b" />
 
 # 📁 Project Structure
 
