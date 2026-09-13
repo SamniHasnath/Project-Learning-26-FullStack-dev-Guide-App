@@ -274,35 +274,6 @@ css/
 This makes the project easier to maintain and understand.
 
 ---
-
-# 🚀 Getting Started
-
-## Prerequisites
-
-You only need:
-
-* A modern web browser
-* Git
-* A code editor such as VS Code
-
-No Node.js installation or package manager is required.
-
----
-
-## 📥 Clone the Repository
-
-```bash
-git clone https://github.com/SamniHasnath/FullStack-dev-Guide-App.git
-```
-
-Move into the project directory:
-
-```bash
-cd FullStack-dev-Guide-App
-```
-
----
-
 ## ▶️ Run the Project
 
 Because this project uses standard HTML, CSS, and JavaScript, you can simply open:
