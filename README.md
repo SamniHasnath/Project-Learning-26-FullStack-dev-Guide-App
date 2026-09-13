@@ -452,41 +452,6 @@ git push origin feature/new-feature
 Create a Pull Request on GitHub and describe your changes.
 
 ---
-
-# 📄 License
-
-This project is open source and available for **educational purposes**.
-
-You are welcome to use, modify, and improve the project for learning.
-
----
-
-# ⭐ Support
-
-If you find **Fullstack Dev Guide** useful:
-
-* ⭐ Star the repository
-* 🍴 Fork the project
-* 🐛 Report issues
-* 💡 Suggest improvements
-* 📢 Share it with other developers
-
----
-
-# 👨‍💻 Author
-
-## Samni Hasnath
-
-**Software Engineering Undergraduate**
-
-Interested in:
-
-* 💻 Fullstack Development
-* 🤖 Artificial Intelligence
-* 📊 Data Science
-* 🧠 Machine Learning
-* 🚀 Software Engineering
-
 ### Connect With Me
 
 * 💼 LinkedIn: [Samni Hasnath](https://linkedin.com/in/samni-hasnath03)
